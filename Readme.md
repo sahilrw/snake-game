@@ -41,12 +41,28 @@ This is a simple implementation of the classic Snake Game using Python and Pygam
 
 3. Install the required dependencies:
 
-```
-pip install pygame
-```
+   ```
+   pip install pygame
+   ```
 
 4. Run the game:
 
-```
-python snakeGame.py
-```
+   ```
+   python snakeGame.py
+   ```
+
+## How to Play
+
+- Use the arrow keys (Up, Down, Left, Right) or WASD keys (W, A, S, D) to control the snake's direction.
+- Eat the brown squares (food) to grow longer.
+- Avoid running into the game boundaries or colliding with the snake's own body.
+- Try to achieve the highest score possible before the game ends.
+
+## Controls
+
+- Arrow Keys (Up, Down, Left, Right) or
+- WASD Keys (W, A, S, D)
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
