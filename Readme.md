@@ -12,7 +12,6 @@ A classic Snake Game implemented in Python using the Pygame library.
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
