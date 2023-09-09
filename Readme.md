@@ -28,4 +28,25 @@ This is a simple implementation of the classic Snake Game using Python and Pygam
 ## Installation
 
 1. Clone the repository:
-   <code>git clone https://github.com/sahilrw/snake-game.git</code>
+
+   ```
+   git clone https://github.com/sahilrw/snake-game.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```
+   cd snake-game
+   ```
+
+3. Install the required dependencies:
+
+```
+pip install pygame
+```
+
+4. Run the game:
+
+```
+python snakeGame.py
+```
